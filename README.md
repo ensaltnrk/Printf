@@ -1,4 +1,4 @@
-# Printf
+# Printf-Ecole 42
 
 Bu proje oldukça basit, printf'i yeniden kodlamanız gerekiyor. Değişken fonksiyonların ne olduğunu ve nasıl uygulanacağını öğreneceksiniz. Doğruladığınızda, bu işlevi gelecekteki projelerinizde yeniden kullanacaksınız.
 
